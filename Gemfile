@@ -33,6 +33,7 @@ group :doc do
 end
 
 gem 'enumerize'
+gem 'friendly_id', '~> 5.1.0'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
